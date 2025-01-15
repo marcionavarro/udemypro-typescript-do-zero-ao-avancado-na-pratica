@@ -1,0 +1,25 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "workbench.iconTheme": "vs-seti",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.fontSize": 14,
+    "editor.tabSize": 2,
+    "editor.suggest.shareSuggestSelections": true,
+    "explorer.confirmDelete": false,
+    "explorer.compactFolders": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "terminal.integrated.shell.windows": "C:\\Windows\\Systems32\\cmd.exe",
+    "gitlens.hover.current.over": "line",
+
+    "emmet.syntaxProfiles": { "javascript": "jsx" },
+    "emmet.includeLanguages": { "javascript": "javascriptreact" },
+
+    "javascript.suggest.autoImports": true,
+    "typescript.suggest.autoImports": true,
+    "terminal.integrated.fontSize":  14,
+    "debug.console.fontSize": 12,
+
+    // "editor.codeActionsOnSave": {
+    //     "source.fixAll.eslint": "always"
+    // }
+}
